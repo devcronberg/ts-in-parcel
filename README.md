@@ -14,3 +14,15 @@ og sørg for at følgende er globalt
 npm i typescript -g
 npm i eslint -g
 ```
+
+Start med
+
+```
+npm start
+```
+
+Byg med
+
+```
+npm run build
+```
